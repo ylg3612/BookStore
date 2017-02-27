@@ -8,7 +8,7 @@ public class Book implements Serializable{
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	private Integer id; // 图书的id
+	private Integer id; // 图书的idasdas 
 	private String title; // 书名
 	private String author; // 作者
 	private double price; // 价格
