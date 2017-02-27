@@ -7,7 +7,7 @@ public class Page<T> {
 	private List<T> list; // 每页查询出来的数据存放的集合
 	private int pageNo; // 当前页
 	public static final int PAGE_SIZE = 4; //每页显示的条数
-//	private int totalPageNo; // 总页数，通过计算得到
+//	private int totalPageNo; // 总页数，通过计算得到///./,
 	private int totalRecord; // 总记录数
 	private String path; //用来接收分页时页码中的请求的地址
 	
